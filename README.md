@@ -157,9 +157,3 @@ No performance or revenue metrics are published here: what is not measured is no
 The source code is maintained in a private repository: this is a commercial product with
 client-specific implementation details. This repository documents the product engineering and the
 system organisation.
-
-## Links
-
-- **Interactive case study** — [francescoiaforte.vercel.app/en/projects/food-retail-logistica](https://francescoiaforte.vercel.app/en/projects/food-retail-logistica)
-- **Profile** — [github.com/francescoveryra-dot](https://github.com/francescoveryra-dot)
-- **Full portfolio** — [francescoiaforte.vercel.app](https://francescoiaforte.vercel.app)
